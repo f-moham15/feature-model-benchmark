@@ -1020,3 +1020,6 @@ while(isSearchRunning):
       translate_fms(fm_selection, translation_format)
 
     isSearchRunning = False
+    
+    python fmb_search.py
+    
